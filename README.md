@@ -1,2 +1,2 @@
 # PRODIGY-WD-03
- “Task 2 – Tic - Tac - Toe”
+ “Task 3 – Tic - Tac - Toe”
